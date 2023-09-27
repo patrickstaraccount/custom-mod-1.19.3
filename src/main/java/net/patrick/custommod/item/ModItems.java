@@ -9,6 +9,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.patrick.custommod.custommod;
 
+//important comment
 public class ModItems {
     public static final Item peppapig = registerItem("peppapig",
             new Item(new FabricItemSettings()));
