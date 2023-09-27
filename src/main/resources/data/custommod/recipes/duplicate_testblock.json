@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#f#",
+    "#d#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "f": {
+      "item": "custommod:test_block"
+    },
+    "d": {
+      "item": "custommod:silasballs"
+    }
+  },
+  "result": {
+    "item": "custommod:test_block",
+    "count": 2
+  }
+}
