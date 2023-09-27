@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " f ",
+    " f ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "custommod:silasballs"
+    },
+    "f": {
+      "item": "custommod:peppapig"
+    }
+  },
+  "result": {
+    "item": "custommod:test_block"
+  }
+}
