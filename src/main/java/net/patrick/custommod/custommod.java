@@ -12,7 +12,6 @@ public class custommod implements ModInitializer {
 
 	public static final Logger LOGGER = LoggerFactory.getLogger("custommod");
     public static final String MOD_ID = "custommod";
-
 	@Override
 	public void onInitialize() {
 		ModItemGroup.registerItemGroups();
